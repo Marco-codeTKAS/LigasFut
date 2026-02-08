@@ -2,6 +2,9 @@
 
 proyecto que maneja ligas de futbol
 
+## Documentación base
+- [Estructura de BD y archivos](docs/estructura-proyecto.md)
+
 ## Install the dependencies
 ```bash
 yarn
