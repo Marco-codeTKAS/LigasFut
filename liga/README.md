@@ -2,11 +2,21 @@
 
 proyecto que maneja ligas de futbol
 
+## Documentación base
+- [Estructura de BD y archivos](docs/estructura-proyecto.md)
+
 ## Install the dependencies
 ```bash
 yarn
 # or
 npm install
+```
+
+## API con Express (opcional)
+```bash
+cd server
+npm install
+npm run dev
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
