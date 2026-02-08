@@ -12,6 +12,13 @@ yarn
 npm install
 ```
 
+## API con Express (opcional)
+```bash
+cd server
+npm install
+npm run dev
+```
+
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
